@@ -1,2 +1,4 @@
 # TUGAS-KK
-tugas 1
+TUGAS 1 
+TUGAS 2
+TUGAS 3
